@@ -1,0 +1,8 @@
+# Скриншоти запуску тесту через CLI
+
+## Командний рядок:
+![CLI](cli_screenshot.png)
+
+## HTML Summary Report:
+![Summary](summary_screenshot.png)
+
